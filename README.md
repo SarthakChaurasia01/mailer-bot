@@ -1,1 +1,1 @@
-# mailer-bot
+# mailer-bot app
